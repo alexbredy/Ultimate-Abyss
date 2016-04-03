@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<maps>
+    <map
+        id="0"
+        name="Ancient way"
+	width="800"
+	height="600"
+	mainImage="IMG/maptest.png"
+	physicalDataImage="IMG/maptestPhysicalMask.png"
+
+    />
+
+    <map
+        id="1"
+        name="Abandonned staircase"
+	width="0"
+	height="0"
+	mainImage=""
+	physicalDataImage=""
+
+    />
+
+</maps>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<characters>
+    <character
+        id="0"
+        name="Kholkir"
+	level="1"
+       	hp="67"
+	hpMax="999"
+        mp="4"
+	mpMax="99"
+	cp="3"
+	cpMax="3"
+	strength="15"
+	magic="9"
+	defense="7"
+	magicDefense="3"
+	agility="5"
+	evasion="2"
+
+        available="true"
+        locked="true"
+    />
+
+    <character
+        id="1"
+        name="Zika"
+	level="1"
+       	hp="216"
+	hpMax="216"
+        mp="49"
+	mpMax="49"
+	cp="2"
+	cpMax="2"
+	strength="6"
+	magic="14"
+	defense="2"
+	magicDefense="7"
+	agility="4"
+	evasion="7"
+
+        available="true"
+        locked="true"
+    />
+
+</characters>
